@@ -1,7 +1,7 @@
 # 效果展示
 
 * [github链接](https://github.com/jk2020214154/React_Box_App) 
-* [acgit链接](https://git.acwing.com/jk20214154/react_box_app)
+* [acgit链接](https://git.acwing.com/jk20214154/web_class/-/tree/master/5.1.1react_box_app)
 
 > 功能实现：
 > 可通过**左按钮**实现左移$2$格单位,**右按钮**实现右移$3$格单位;
